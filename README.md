@@ -25,7 +25,8 @@ Result:
 - Trains very quickly (a few seconds).
    
 Possible extensions
-- Could change the columns used in the data and see how it performs
-- Many columns were collapsed into one (VRDeck, Spa etc... was collapsed into Expenditure). Could see how model trains if these were not collapsed
-- Could add more layers to capture higher order relationships in the data 
+- Could change the columns used in the data and see how it performs.
+- Many columns were collapsed into one (VRDeck, Spa etc... was collapsed into Expenditure). Could see how model trains if these were not collapsed.
+- Could add more layers to capture higher order relationships in the data.
+- The 'Name' column was fully discarded but this can be used to find information on family size (with shared last names) which is an extra piece of information that could be used.
   
