@@ -1,6 +1,6 @@
 # Neural-Network-Spaceship-Titanic
 Multi-layered neural network to predict outcomes for the Kaggle dataset, Spaceship Titanic (kaggle.com/competitions/spaceship-titanic/).
-The neural network has been produced from scratch without the use of any external libraries (except Pytorch used in finding gradients of the loss). I have done for a deeper understanding of the mathematics of neural networks.
+The neural network has been produced from scratch without the use of any external libraries (except Pytorch used in finding gradients of the loss). I have done this for a deeper understanding of the mathematics of neural networks.
 
 Aims:
 - Predict whether passengers are to be transported or not from this dataset considering different parameters.
